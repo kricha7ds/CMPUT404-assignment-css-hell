@@ -1,0 +1,88 @@
+p {
+    line-height: 30px;
+    margin: 24px 0;
+  }
+  
+  h1 {
+    font-size: 300%;
+    font-weight: bolder;
+  }
+  h2 {
+    font-family: Garamond;
+    font-size: 175%;
+    font-weight: 300;
+  }
+  h3 {
+    font-size: 150%;
+    text-decoration: underline;
+  }
+  h4 {
+    font-size: 120%;
+    color: rgb(65, 65, 65);
+    text-decoration: underline;
+  }
+  
+  h5 {
+    font-size: 110%;
+    color: rgb(65, 65, 65);
+  }
+  
+  h6 {
+    font-size: 100%;
+    color: rgb(65, 65, 65);
+  }
+  
+  img {
+    border: solid 4px grey;
+    /* border: solid 4px #ebebc4; */
+  }
+  
+  .toc {
+    font-style: normal;
+  }
+
+  div.fig {
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  figcaption {
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  body {
+    margin: 20% 10% !important;
+    font-family: Garamond;
+    background: #ebebc4;
+    text-align: justify;
+  }
+
+  a:visited {
+    color: #752bb9;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: rgb(226, 27, 27);
+  }
+  
+  p.poem {
+    width: 100%;
+    margin: 0 0 0 0;
+    padding: 4%;
+    background: rgb(207, 207, 207);
+  }
+  
+  pre {
+    font-size: 14px;
+    line-height: 15px;
+    white-space: pre-wrap;
+    font-style: normal;
+  }
+  
+  hr {
+    border-color: #000;
+    width: 50%;
+    text-align: center;
+  }
