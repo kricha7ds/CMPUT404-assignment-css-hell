@@ -4,8 +4,8 @@ html * {
 }
 
 .navbar {
-    /* display: flex;
-    justify-content: center; */
+    display: flex;
+    justify-content: center;
     overflow:hidden;
     position:fixed;
     align-items: center;
