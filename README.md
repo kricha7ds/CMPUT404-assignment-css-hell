@@ -12,6 +12,16 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Gutenberg HTML Files
+=================
+- Added a line to each gutenberg document's html to override styles
+- Modified path to images
+
+References
+=================
+*Creative Commons Guide* for adding license html to footer
+https://labs.creativecommons.org/2011/ccrel-guide/
+
 License/Copyright
 =================
 
